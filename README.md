@@ -6,4 +6,4 @@
 访问地址：[https://leeyi111.github.io/](https://leeyi111.github.io/)
 
 
-博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
+博客主题使用:[ityouknow](https://github.com/ityouknow/ityouknow.github.io)
