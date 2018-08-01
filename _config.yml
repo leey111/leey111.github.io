@@ -6,20 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  leeyi111
+title:  leey
 subtitle: 分享技术，品味人生
-name: leeyi111
-email: liyi1994111@outlook.com
+name: leey
+email: leey111@outlook.com
 description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
 keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: leeyi111/leeyi111.github.io
-github_url: https://github.com/leeyi111
-cnblog_url: https://leeyi111.github.io
-url: https://leeyi111.github.io
-enforce_ssl: leeyi111.github.io
+repository: leey111/leey111.github.io
+github_url: https://github.com/leey111
+cnblog_url: https://leey111.github.io
+url: https://leey111.github.io
+enforce_ssl: leey111.github.io
 
 ## Gem
 plugins:
